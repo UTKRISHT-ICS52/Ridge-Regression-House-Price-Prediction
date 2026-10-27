@@ -80,7 +80,7 @@ Create a `requirements.txt` file containing:
 - Evaluate models with additional cross-validation experiments.
 
 ## Author
-Utkrisht Patel
+Utkrisht Patel , CEO & Founder , Invantra Labs
 
 ## Disclaimer
 This project is for educational purposes. Model performance depends on the dataset and evaluation setup.
